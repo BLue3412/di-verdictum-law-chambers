@@ -23,7 +23,7 @@ const OFFICE_INFO = [
   },
   {
     title: 'Email',
-    text: 'mohit@acchavakil.com',
+    text: 'acchavakil@gmail.com',
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
         <rect x="3" y="5" width="18" height="14" rx="2" />
