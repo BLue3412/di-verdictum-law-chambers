@@ -778,7 +778,7 @@ p { margin: 0; }
 
 .why-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 1px;
   background: rgba(250,249,244,0.12);
   border: 1px solid rgba(250,249,244,0.12);

@@ -1,10 +1,9 @@
 import Reveal from './Reveal.jsx'
 
 const STATS = [
-  { num: '25+', title: 'Years of Practice', text: 'Advising clients across India since our founding.' },
-  { num: '1,200+', title: 'Matters Resolved', text: 'Across corporate, civil, and criminal jurisprudence.' },
-  { num: '18', title: 'Partners & Associates', text: 'Specialist advocates across every core practice area.' },
-  { num: '2', title: 'Courts of Practice', text: 'Bombay High Court, Nagpur Bench, and District & Sessions Courts.' },
+  { num: '20+', title: 'Years of Practice', text: 'Advising clients across India since our founding.' },
+  { num: '3', title: 'Partners & Associates', text: 'Specialist advocates across every core practice area.' },
+  { num: '2', title: 'Courts of Practice', text: 'Bombay High Court, Nagpur Bench, and District & Sessions Courts across Maharashtra and Goa.' },
 ]
 
 export default function WhyChooseUs() {
